@@ -26,8 +26,7 @@ https://drive.google.com/uc?export=download&id=0B3gersZ2cHIxRm5PMWRoTkdHdHc
 ## After Downloading
 
 Place the downloaded file in this folder:
-Task4/models/MobileNetSSD_deploy.caffemodel
-
+models/MobileNetSSD_deploy.caffemodel
 ---
 
 ## Quick Setup Script
@@ -36,7 +35,7 @@ Run this in your terminal to download automatically:
 
 ```bash
 cd models
-curl -L -o MobileNetSSD_deploy.caffemodel "https://github.com/djmv/MobilNet_SSD_opencv/raw/master/MobileNetSSD_deploy.caffemodel"
+curl.exe -L -o MobileNetSSD_deploy.caffemodel "https://github.com/djmv/MobilNet_SSD_opencv/raw/master/MobileNetSSD_deploy.caffemodel"
 ```
 
 ---
